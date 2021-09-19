@@ -1,3 +1,5 @@
+**Unlock region**
+
 `hostname = *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com`
 
 *Remote Rule*
