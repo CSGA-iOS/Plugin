@@ -1,0 +1,2 @@
+`hostname = *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com`
+
